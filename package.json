@@ -39,5 +39,6 @@
     "vite": "^3.0.9",
     "vitest": "^0.23.0",
     "vue-tsc": "^0.40.7"
-  }
+  },
+  "homepage": "https://${github username}.github.io/${repo name}"
 }
