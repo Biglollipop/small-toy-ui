@@ -1,3 +1,12 @@
+<!--
+ * @Author: chenshiqiang
+ * @Date: 2022-09-12 03:33:25
+ * @LastEditors: chenshiqiang
+ * @LastEditTime: 2022-09-12 03:49:43
+ * @version:
+ * @Descripttion:
+-->
+
 # small-toy-ui
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -13,8 +22,8 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
 
 1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
+   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
+   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
 
 ## Customize configuration
@@ -57,3 +66,5 @@ npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 ```sh
 npm run lint
 ```
+
+Github Pages 地址: <https://biglollipop.github.io/small-toy-ui/#/>
