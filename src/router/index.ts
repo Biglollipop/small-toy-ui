@@ -32,6 +32,7 @@ router.beforeEach((to, from, next) => {
       ${import.meta.env.VITE_APP_TITLE} - ${to?.meta?.title as string}
     `
 	}
+	next()
 })
 
 export default router
