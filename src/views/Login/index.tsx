@@ -11,10 +11,9 @@ import { defineComponent } from 'vue'
 export default defineComponent({
 	setup() {
 		return () => (
-			<div>
-				<h1>Login</h1>
-				<div>登录</div>
-			</div>
+			<>
+				<h1>登录页面</h1>
+			</>
 		)
 	}
 })
