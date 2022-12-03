@@ -1,0 +1,1 @@
+import{d as t,c as e,a as u,F as a}from"./index.b8f1cadd.js";const o=t({setup(){return()=>e(a,null,[e("h1",null,[u("\u767B\u5F55\u9875\u9762")]),e("h1",null,[u("CI \u6D4B\u8BD5")])])}});export{o as default};
