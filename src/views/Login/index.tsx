@@ -13,6 +13,7 @@ export default defineComponent({
 		return () => (
 			<>
 				<h1>登录页面</h1>
+				<h1>CI 测试</h1>
 			</>
 		)
 	}
